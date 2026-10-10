@@ -1,0 +1,18 @@
+Inteligência Artificial, Otimização e IoT para Indústrias e Negócios
+Copyright 2026 Fernanda Pereira Guidotti Carneiro
+
+Este repositório contém materiais educacionais autorais do curso oferecido no
+contexto do ICMC/USP e do projeto OpAIoT.
+
+Apenas a Prática 1 do tema MLOps, intitulada "Monitoramento Inteligente de Pátio",
+teve sua concepção didática inicial inspirada e adaptada a partir de um laboratório
+público da especialização "Machine Learning Engineering for Production", da
+DeepLearning.AI, disponibilizado sob a Apache License 2.0:
+https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public
+
+Essa atribuição não se aplica automaticamente aos demais módulos, temas ou práticas
+do curso, que possuem concepção e desenvolvimento próprios, salvo indicação expressa
+em seus respectivos materiais.
+
+As imagens de terceiros utilizadas nas práticas mantêm suas licenças originais. As
+fontes e atribuições específicas são informadas nos notebooks correspondentes.
